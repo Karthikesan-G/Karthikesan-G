@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Karthik
 
 🚀 Aspiring Data Engineer | 🐍 Pythonista | 🕸️ Web Scraping Enthusiast  
+
 💻 I love building data pipelines, scraping engines, and automating workflows.
 
 ---
@@ -31,6 +32,5 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikesan-G&show_icons=true&theme=tokyonight)
+> 🧠 _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House  
+> 💡 _Always striving to make data speak clearly._
