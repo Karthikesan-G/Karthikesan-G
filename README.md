@@ -33,4 +33,4 @@
 
 ## 📈 GitHub Stats
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikesan-G&show_icons=true&theme=tokyonight)
